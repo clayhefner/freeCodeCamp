@@ -1,6 +1,6 @@
 
 
-## Source Code Editors
+# Source Code Editors
 
 Source code editors are the programs that allow for code creation and  
 editing. Any text editor can be used to write code. But dedicated code  
@@ -15,7 +15,7 @@ each have their own subtleties. Further research may help find the one that's
 right for you. The following editors are all cross-platform and  
 free to use or evaluate.
 
-# Sublime Text
+## Sublime Text
 
 ![Sublime Text Screenshot](//discourse-user-assets.s3.amazonaws.com/original/2X/6/63f774c31a7b1a439bcef9d11e95463b6998310e.png)
 
@@ -28,7 +28,7 @@ online to help
 
 Website - <a href='https://www.sublimetext.com/' target='_blank' rel='nofollow'> Sublime Text </a>
 
-# Brackets 
+## Brackets 
 
 ![Brackets Screenshot](//discourse-user-assets.s3.amazonaws.com/original/2X/2/2f395a58d24ed551ed8440a10ae640777f1143b6.png)
 
@@ -36,7 +36,7 @@ Brackets is a relatively new open-source editor by Adobe. It is very user friend
 
 Website - <a href='https://www.sublimetext.com/' target='_blank' rel='nofollow'>Sublime Text </a>
 
-# Atom
+## Atom
 
 ![Atom Screenshot](//discourse-user-assets.s3.amazonaws.com/original/2X/8/8016e7c0937e8ce6fcb6104c9aee0026443912f5.png)
 
@@ -50,7 +50,7 @@ Website - <a href='https://atom.io/' target='_blank' rel='nofollow'> Atom</a>
 <a href='http://stackoverflow.com/search?q=atom' target='_blank' rel='nofollow'>availble</a> online.
 
 
-# Visual Studio Code
+## Visual Studio Code
 
 ![Visual Studio Code Screenshot](https://code.visualstudio.com/home/home-screenshot-mac-lg.png)
 
